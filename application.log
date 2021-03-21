@@ -1,0 +1,553 @@
+2021-03-21 09:08:34,970 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplicationTests using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 272 (started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 09:08:34,975 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 09:08:36,356 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 09:08:36,790 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplicationTests in 2.156 seconds (JVM running for 3.557)
+2021-03-21 09:08:37,144 INFO  ExecutorConfigurationSupport:218 - [] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-21 09:09:37,655 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 9420 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 09:09:37,661 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 09:09:39,596 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 09:09:39,609 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 09:09:39,610 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 09:09:39,684 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 09:09:39,684 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1934 ms
+2021-03-21 09:09:39,914 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 09:09:40,162 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 09:09:40,176 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.791 seconds (JVM running for 4.489)
+2021-03-21 09:09:46,054 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 09:09:46,055 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 09:09:46,057 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 09:09:46,105 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 09:09:46,106 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 09:09:46,107 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 09:09:46,108 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 09:10:05,344 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 09:10:05,346 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 09:10:05,348 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 09:10:05,350 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 09:10:19,929 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 1192 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 09:10:19,934 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 09:10:21,636 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 09:10:21,649 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 09:10:21,649 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 09:10:21,719 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 09:10:21,719 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1712 ms
+2021-03-21 09:10:21,916 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 09:10:22,159 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 09:10:22,172 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.0 seconds (JVM running for 3.698)
+2021-03-21 09:10:25,840 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 09:10:25,841 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 09:10:25,844 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 09:10:25,898 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 09:10:25,899 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 09:10:25,899 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 09:10:49,995 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 18824 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 09:10:50,000 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 09:10:51,363 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 09:10:51,375 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 09:10:51,375 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 09:10:51,448 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 09:10:51,449 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1376 ms
+2021-03-21 09:10:51,652 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 09:10:51,868 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 09:10:51,880 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 2.345 seconds (JVM running for 2.846)
+2021-03-21 09:10:54,831 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 09:10:54,832 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 09:10:54,835 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 09:10:54,898 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 09:10:54,900 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 09:10:54,900 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:05:36,047 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 15856 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 10:05:36,053 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 10:05:38,351 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 10:05:38,382 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 10:05:38,384 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 10:05:38,568 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 10:05:38,569 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 2403 ms
+2021-03-21 10:05:39,050 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 10:05:39,741 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 10:05:39,774 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 4.458 seconds (JVM running for 5.156)
+2021-03-21 10:05:55,563 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:05:55,564 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 10:05:55,567 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 10:06:00,083 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:06:00,084 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:06:00,085 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:07:31,426 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:07:31,427 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:07:31,427 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:07:57,440 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 20544 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 10:07:57,444 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 10:07:59,805 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 10:07:59,830 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 10:07:59,831 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 10:08:00,060 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 10:08:00,061 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 2553 ms
+2021-03-21 10:08:00,413 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 10:08:00,708 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 10:08:00,728 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.894 seconds (JVM running for 4.403)
+2021-03-21 10:08:10,235 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:08:10,235 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 10:08:10,236 INFO  FrameworkServlet:547 - [] Completed initialization in 1 ms
+2021-03-21 10:08:10,270 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:08:10,270 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:08:10,271 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:08:10,272 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:18:12,761 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 13824 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 10:18:12,765 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 10:18:14,480 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 10:18:14,498 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 10:18:14,498 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 10:18:14,603 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 10:18:14,604 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1761 ms
+2021-03-21 10:18:14,899 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 10:18:15,342 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 10:18:15,379 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.14 seconds (JVM running for 3.682)
+2021-03-21 10:18:41,468 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:18:41,469 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 10:18:41,471 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 10:18:41,513 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:18:41,514 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:18:41,515 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:18:41,516 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:19:31,213 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:19:31,214 TRACE LogFormatUtils:88 - [] Writing ["logger level set as all"]
+2021-03-21 10:19:31,216 TRACE WebContentGenerator:405 - [] Applying default cacheSeconds=-1
+2021-03-21 10:19:31,220 TRACE DispatcherServlet:1146 - [] No view rendering, null ModelAndView returned.
+2021-03-21 10:19:31,222 DEBUG FrameworkServlet:1131 - [] Completed 200 OK, headers={masked}
+2021-03-21 10:19:31,223 TRACE RequestContextFilter:105 - [] Cleared thread-bound request context: org.apache.catalina.connector.RequestFacade@6eb9082
+2021-03-21 10:19:31,226 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:19:31,227 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6a6308bf:org.apache.tomcat.util.net.NioChannel@4ba5493:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55300]], Read from buffer: [0]
+2021-03-21 10:19:31,230 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6a6308bf:org.apache.tomcat.util.net.NioChannel@4ba5493:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55300]], Read direct from socket: [0]
+2021-03-21 10:19:31,231 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:19:31,233 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6a6308bf:org.apache.tomcat.util.net.NioChannel@4ba5493:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55300]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:19:31,234 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6a6308bf:org.apache.tomcat.util.net.NioChannel@4ba5493:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55300]]
+2021-03-21 10:19:32,235 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302172235; nextExpiration=1616302171822; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:33,236 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302173236; nextExpiration=1616302173235; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:34,237 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302174237; nextExpiration=1616302174236; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:35,238 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302175238; nextExpiration=1616302175237; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:36,239 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302176239; nextExpiration=1616302176238; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:37,240 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302177240; nextExpiration=1616302177239; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:38,240 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302178240; nextExpiration=1616302178240; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:39,242 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302179242; nextExpiration=1616302179240; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:40,243 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302180242; nextExpiration=1616302180242; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:41,244 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302181244; nextExpiration=1616302181242; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:42,245 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302182245; nextExpiration=1616302182244; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:43,247 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302183247; nextExpiration=1616302183245; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:44,249 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302184249; nextExpiration=1616302184247; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:45,251 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302185251; nextExpiration=1616302185249; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:46,251 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302186251; nextExpiration=1616302186251; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:47,252 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302187252; nextExpiration=1616302187251; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:48,253 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302188253; nextExpiration=1616302188252; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:49,255 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302189255; nextExpiration=1616302189253; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:50,255 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302190255; nextExpiration=1616302190255; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:51,256 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302191256; nextExpiration=1616302191255; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:52,257 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302192257; nextExpiration=1616302192256; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:53,258 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302193258; nextExpiration=1616302193257; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:54,259 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302194259; nextExpiration=1616302194258; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:55,261 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302195261; nextExpiration=1616302195259; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:56,263 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302196263; nextExpiration=1616302196261; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:57,264 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302197264; nextExpiration=1616302197263; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:58,264 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302198264; nextExpiration=1616302198264; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:19:59,265 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302199265; nextExpiration=1616302199264; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:00,265 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302200265; nextExpiration=1616302200265; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:01,265 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302201265; nextExpiration=1616302201265; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:02,265 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302202265; nextExpiration=1616302202265; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:03,267 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302203267; nextExpiration=1616302203265; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:04,267 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302204267; nextExpiration=1616302204267; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:05,268 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302205268; nextExpiration=1616302205267; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:06,269 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302206269; nextExpiration=1616302206268; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:07,269 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302207269; nextExpiration=1616302207269; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:08,269 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302208269; nextExpiration=1616302208269; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:09,270 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302209270; nextExpiration=1616302209269; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:10,271 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302210271; nextExpiration=1616302210270; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:11,271 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302211271; nextExpiration=1616302211271; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:12,272 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302212272; nextExpiration=1616302212271; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:13,272 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302213272; nextExpiration=1616302213272; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:14,272 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302214272; nextExpiration=1616302214272; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:14,686 DEBUG DirectJDKLog:173 - [] Start expire sessions StandardManager at 1616302214686 sessioncount 0
+2021-03-21 10:20:14,686 DEBUG DirectJDKLog:173 - [] End expire sessions StandardManager processingTime 0 expired sessions: 0
+2021-03-21 10:20:15,273 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302215273; nextExpiration=1616302215272; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:16,273 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302216273; nextExpiration=1616302216273; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:17,273 DEBUG DirectJDKLog:173 - [] timeout completed: keys processed=2; now=1616302217273; nextExpiration=1616302217273; keyCount=0; hasEvents=false; eval=false
+2021-03-21 10:20:17,647 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:20:17,648 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6a6308bf:org.apache.tomcat.util.net.NioChannel@4ba5493:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55300]], Read from buffer: [0]
+2021-03-21 10:20:17,650 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6a6308bf:org.apache.tomcat.util.net.NioChannel@4ba5493:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55300]], Read direct from socket: [672]
+2021-03-21 10:20:17,650 DEBUG DirectJDKLog:173 - [] Received [GET /changeloglevel?level=off HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:20:17,652 DEBUG DirectJDKLog:173 - [] Security checking request GET /changeloglevel
+2021-03-21 10:20:17,654 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:20:17,654 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:20:17,654 DEBUG DirectJDKLog:173 - []   Returning non-STM instance
+2021-03-21 10:20:17,655 TRACE RequestContextFilter:115 - [] Bound request context to thread: org.apache.catalina.connector.RequestFacade@6eb9082
+2021-03-21 10:20:17,656 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:20:17,657 DEBUG DirectJDKLog:173 - [] Decoding query null UTF-8
+2021-03-21 10:20:17,658 DEBUG DirectJDKLog:173 - [] Start processing with input [level=off]
+2021-03-21 10:20:17,660 TRACE LogFormatUtils:88 - [] GET "/changeloglevel?level=off", parameters={masked}, headers={masked} in DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:20:17,662 TRACE AbstractBeanFactory:264 - [] Returning cached instance of singleton bean 'logController'
+2021-03-21 10:20:17,662 TRACE AbstractHandlerMapping:507 - [] Mapped to com.example.springbootloggingexample.controller.LogController#changeLogLevel(String, String)
+2021-03-21 10:20:17,663 TRACE InvocableHandlerMethod:139 - [] Arguments: [null, off]
+2021-03-21 10:20:52,965 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:20:52,966 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:20:52,967 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:20:52,967 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:21:39,325 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:21:39,326 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:21:39,327 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:21:39,327 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:22:32,041 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 9224 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 10:22:32,046 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 10:22:33,948 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 10:22:33,960 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 10:22:33,960 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 10:22:34,033 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 10:22:34,033 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1905 ms
+2021-03-21 10:22:34,242 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 10:22:34,480 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 10:22:34,490 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.364 seconds (JVM running for 4.113)
+2021-03-21 10:22:49,014 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:22:49,016 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 10:22:49,018 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 10:22:49,065 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:22:49,066 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:22:49,066 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:22:57,912 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:22:57,915 DEBUG LogFormatUtils:91 - [] Writing ["logger level set as debug"]
+2021-03-21 10:22:57,920 DEBUG FrameworkServlet:1131 - [] Completed 200 OK
+2021-03-21 10:22:57,923 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:22:57,926 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read from buffer: [0]
+2021-03-21 10:22:57,928 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read direct from socket: [0]
+2021-03-21 10:22:57,929 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:22:57,932 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:22:57,934 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]]
+2021-03-21 10:23:00,560 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:23:00,561 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read from buffer: [0]
+2021-03-21 10:23:00,563 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read direct from socket: [662]
+2021-03-21 10:23:00,565 DEBUG DirectJDKLog:173 - [] Received [GET /message HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:23:00,566 DEBUG DirectJDKLog:173 - [] Security checking request GET /message
+2021-03-21 10:23:00,568 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:23:00,569 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:23:00,573 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:23:00,575 DEBUG LogFormatUtils:91 - [] GET "/message", parameters={}
+2021-03-21 10:23:00,577 DEBUG AbstractHandlerMapping:510 - [] Mapped to com.example.springbootloggingexample.controller.MessageController#getMessage()
+2021-03-21 10:23:00,579 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:23:00,580 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:23:00,581 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:23:00,582 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:23:00,586 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:23:00,587 DEBUG LogFormatUtils:91 - [] Writing ["open console to check log messages."]
+2021-03-21 10:23:00,591 DEBUG FrameworkServlet:1131 - [] Completed 200 OK
+2021-03-21 10:23:00,594 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:23:00,596 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read from buffer: [0]
+2021-03-21 10:23:00,597 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read direct from socket: [0]
+2021-03-21 10:23:00,599 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:23:00,601 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:23:00,602 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]]
+2021-03-21 10:23:18,885 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:23:18,886 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read from buffer: [0]
+2021-03-21 10:23:18,887 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read direct from socket: [662]
+2021-03-21 10:23:18,888 DEBUG DirectJDKLog:173 - [] Received [GET /message HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:23:18,890 DEBUG DirectJDKLog:173 - [] Security checking request GET /message
+2021-03-21 10:23:18,890 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:23:18,890 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:23:18,891 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:23:18,892 DEBUG LogFormatUtils:91 - [] GET "/message", parameters={}
+2021-03-21 10:23:18,893 DEBUG AbstractHandlerMapping:510 - [] Mapped to com.example.springbootloggingexample.controller.MessageController#getMessage()
+2021-03-21 10:23:18,893 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:23:18,894 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:23:18,894 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:23:18,894 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:23:18,902 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:23:18,902 DEBUG LogFormatUtils:91 - [] Writing ["open console to check log messages."]
+2021-03-21 10:23:18,906 DEBUG FrameworkServlet:1131 - [] Completed 200 OK
+2021-03-21 10:23:18,909 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:23:18,911 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read from buffer: [0]
+2021-03-21 10:23:18,912 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read direct from socket: [0]
+2021-03-21 10:23:18,913 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:23:18,914 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:23:18,915 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]]
+2021-03-21 10:23:34,098 DEBUG DirectJDKLog:173 - [] Start expire sessions StandardManager at 1616302414097 sessioncount 0
+2021-03-21 10:23:34,100 DEBUG DirectJDKLog:173 - [] End expire sessions StandardManager processingTime 3 expired sessions: 0
+2021-03-21 10:23:41,176 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:23:41,177 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read from buffer: [0]
+2021-03-21 10:23:41,177 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@6231b924:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55307]], Read direct from socket: [653]
+2021-03-21 10:23:41,178 DEBUG DirectJDKLog:173 - [] Received [GET /changeloglevel?level=off HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:23:41,179 DEBUG DirectJDKLog:173 - [] Security checking request GET /changeloglevel
+2021-03-21 10:23:41,180 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:23:41,181 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:23:41,182 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:23:41,183 DEBUG DirectJDKLog:173 - [] Decoding query null UTF-8
+2021-03-21 10:23:41,184 DEBUG DirectJDKLog:173 - [] Start processing with input [level=off]
+2021-03-21 10:23:41,185 DEBUG LogFormatUtils:91 - [] GET "/changeloglevel?level=off", parameters={masked}
+2021-03-21 10:23:41,186 DEBUG AbstractHandlerMapping:510 - [] Mapped to com.example.springbootloggingexample.controller.LogController#changeLogLevel(String, String)
+2021-03-21 10:25:23,838 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:25:23,840 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:25:23,841 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:25:23,842 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:25:41,889 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:25:41,891 DEBUG LogFormatUtils:91 - [] Writing ["logger level set as debug"]
+2021-03-21 10:25:41,896 DEBUG FrameworkServlet:1131 - [] Completed 200 OK
+2021-03-21 10:25:41,899 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:25:41,901 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@221efd96:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55310]], Read from buffer: [0]
+2021-03-21 10:25:41,903 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@221efd96:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55310]], Read direct from socket: [0]
+2021-03-21 10:25:41,904 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:25:41,906 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@221efd96:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55310]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:25:41,907 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@221efd96:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55310]]
+2021-03-21 10:25:47,870 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:25:47,872 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@221efd96:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55310]], Read from buffer: [0]
+2021-03-21 10:25:47,873 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@221efd96:org.apache.tomcat.util.net.NioChannel@7d2956d8:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55310]], Read direct from socket: [673]
+2021-03-21 10:25:47,874 DEBUG DirectJDKLog:173 - [] Received [GET /changeloglevel?level=info HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:25:47,879 DEBUG DirectJDKLog:173 - [] Security checking request GET /changeloglevel
+2021-03-21 10:25:47,879 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:25:47,880 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:25:47,882 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:25:47,884 DEBUG DirectJDKLog:173 - [] Decoding query null UTF-8
+2021-03-21 10:25:47,886 DEBUG DirectJDKLog:173 - [] Start processing with input [level=info]
+2021-03-21 10:25:47,887 DEBUG LogFormatUtils:91 - [] GET "/changeloglevel?level=info", parameters={masked}
+2021-03-21 10:25:47,889 DEBUG AbstractHandlerMapping:510 - [] Mapped to com.example.springbootloggingexample.controller.LogController#changeLogLevel(String, String)
+2021-03-21 10:26:21,194 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 13476 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 10:26:21,198 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 10:26:23,097 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 10:26:23,110 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 10:26:23,110 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 10:26:23,187 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 10:26:23,188 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1913 ms
+2021-03-21 10:26:23,386 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 10:26:23,630 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 10:26:23,641 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.091 seconds (JVM running for 3.844)
+2021-03-21 10:26:56,295 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:26:56,297 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 10:26:56,301 INFO  FrameworkServlet:547 - [] Completed initialization in 3 ms
+2021-03-21 10:26:56,387 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:26:56,389 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:26:56,390 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:26:56,391 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:28:12,224 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 16412 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 10:28:12,229 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 10:28:13,953 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 10:28:13,972 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 10:28:13,972 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 10:28:14,087 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 10:28:14,088 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 1789 ms
+2021-03-21 10:28:14,386 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 10:28:14,685 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 10:28:14,703 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 3.237 seconds (JVM running for 3.755)
+2021-03-21 10:28:26,386 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 10:28:26,387 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 10:28:26,388 INFO  FrameworkServlet:547 - [] Completed initialization in 1 ms
+2021-03-21 10:28:26,423 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:28:26,424 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:28:26,424 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:28:58,272 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:28:58,273 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:28:58,274 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:29:12,477 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:29:12,478 DEBUG LogFormatUtils:91 - [] Writing ["logger level set as debug"]
+2021-03-21 10:29:12,480 DEBUG FrameworkServlet:1131 - [] Completed 200 OK
+2021-03-21 10:29:12,481 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:29:12,481 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read from buffer: [0]
+2021-03-21 10:29:12,482 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read direct from socket: [0]
+2021-03-21 10:29:12,482 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:29:12,483 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:29:12,484 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]]
+2021-03-21 10:29:14,178 DEBUG DirectJDKLog:173 - [] Start expire sessions StandardManager at 1616302754178 sessioncount 0
+2021-03-21 10:29:14,179 DEBUG DirectJDKLog:173 - [] End expire sessions StandardManager processingTime 1 expired sessions: 0
+2021-03-21 10:29:15,802 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:29:15,803 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read from buffer: [0]
+2021-03-21 10:29:15,803 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read direct from socket: [662]
+2021-03-21 10:29:15,803 DEBUG DirectJDKLog:173 - [] Received [GET /message HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:29:15,805 DEBUG DirectJDKLog:173 - [] Security checking request GET /message
+2021-03-21 10:29:15,805 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:29:15,806 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:29:15,807 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:29:15,808 DEBUG LogFormatUtils:91 - [] GET "/message", parameters={}
+2021-03-21 10:29:15,809 DEBUG AbstractHandlerMapping:510 - [] Mapped to com.example.springbootloggingexample.controller.MessageController#getMessage()
+2021-03-21 10:29:15,811 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:29:15,811 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:29:15,812 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:29:15,812 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 10:29:15,815 DEBUG AbstractMessageConverterMethodProcessor:255 - [] Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2021-03-21 10:29:15,816 DEBUG LogFormatUtils:91 - [] Writing ["open console to check log messages."]
+2021-03-21 10:29:15,818 DEBUG FrameworkServlet:1131 - [] Completed 200 OK
+2021-03-21 10:29:15,819 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:29:15,820 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read from buffer: [0]
+2021-03-21 10:29:15,821 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read direct from socket: [0]
+2021-03-21 10:29:15,821 DEBUG DirectJDKLog:173 - [] Received []
+2021-03-21 10:29:15,822 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Status in: [OPEN_READ], State out: [OPEN]
+2021-03-21 10:29:15,822 DEBUG DirectJDKLog:173 - [] Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]]
+2021-03-21 10:29:26,829 DEBUG DirectJDKLog:173 - [] Counting down[http-nio-8080-exec-5] latch=2
+2021-03-21 10:29:26,830 DEBUG DirectJDKLog:173 - [] Calling [org.apache.tomcat.util.net.NioEndpoint@4104d922].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4fc33f72:org.apache.tomcat.util.net.NioChannel@4bfcb252:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55332]])
+2021-03-21 10:29:52,495 DEBUG DirectJDKLog:173 - [] Counting up[http-nio-8080-Acceptor] latch=2
+2021-03-21 10:29:52,504 DEBUG DirectJDKLog:173 - [] Before fill(): [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position() [0]
+2021-03-21 10:29:52,504 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read from buffer: [0]
+2021-03-21 10:29:52,504 DEBUG DirectJDKLog:173 - [] Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@457dc091:org.apache.tomcat.util.net.NioChannel@28bf7a20:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8080 remote=/0:0:0:0:0:0:0:1:55331]], Read direct from socket: [672]
+2021-03-21 10:29:52,505 DEBUG DirectJDKLog:173 - [] Received [GET /changeloglevel?level=off HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+]
+2021-03-21 10:29:52,506 DEBUG DirectJDKLog:173 - [] Security checking request GET /changeloglevel
+2021-03-21 10:29:52,506 DEBUG DirectJDKLog:173 - []   No applicable constraints defined
+2021-03-21 10:29:52,507 DEBUG DirectJDKLog:173 - [] Not subject to any constraint
+2021-03-21 10:29:52,507 DEBUG DirectJDKLog:173 - [] Set encoding to UTF-8
+2021-03-21 10:29:52,508 DEBUG DirectJDKLog:173 - [] Decoding query null UTF-8
+2021-03-21 10:29:52,509 DEBUG DirectJDKLog:173 - [] Start processing with input [level=off]
+2021-03-21 10:29:52,510 DEBUG LogFormatUtils:91 - [] GET "/changeloglevel?level=off", parameters={masked}
+2021-03-21 10:29:52,511 DEBUG AbstractHandlerMapping:510 - [] Mapped to com.example.springbootloggingexample.controller.LogController#changeLogLevel(String, String)
+2021-03-21 10:31:09,292 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 10:31:09,293 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 10:31:09,294 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 10:31:09,295 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 11:02:34,722 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 7280 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 11:02:34,729 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 11:02:37,105 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 11:02:37,131 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 11:02:37,132 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 11:02:37,268 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 11:02:37,269 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 2441 ms
+2021-03-21 11:02:37,638 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 11:02:37,988 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 11:02:38,010 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 4.285 seconds (JVM running for 5.349)
+2021-03-21 11:02:43,966 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 11:02:43,967 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 11:02:43,970 INFO  FrameworkServlet:547 - [] Completed initialization in 2 ms
+2021-03-21 11:02:44,027 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 11:02:44,027 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 11:02:44,028 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 11:02:44,029 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 11:03:01,949 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 11:03:01,951 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 11:03:01,953 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 11:03:01,955 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 11:03:21,943 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 11:03:21,944 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 11:03:21,945 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 11:03:21,947 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 11:04:44,603 INFO  StartupInfoLogger:55 - [] Starting SpringBootLoggingExampleApplication using Java 1.8.0_261 on LAPTOP-1VK3BVBH with PID 1388 (D:\SUMIT\Cloned Projects\spring-boot-logging-example\target\classes started by sumit in D:\SUMIT\Cloned Projects\spring-boot-logging-example)
+2021-03-21 11:04:44,610 INFO  SpringApplication:660 - [] No active profile set, falling back to default profiles: default
+2021-03-21 11:04:47,311 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2021-03-21 11:04:47,343 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2021-03-21 11:04:47,344 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-03-21 11:04:47,499 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2021-03-21 11:04:47,500 INFO  ServletWebServerApplicationContext:289 - [] Root WebApplicationContext: initialization completed in 2767 ms
+2021-03-21 11:04:47,945 INFO  ExecutorConfigurationSupport:181 - [] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-21 11:04:48,467 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-21 11:04:48,490 INFO  StartupInfoLogger:61 - [] Started SpringBootLoggingExampleApplication in 4.939 seconds (JVM running for 5.786)
+2021-03-21 11:05:09,870 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-21 11:05:09,872 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2021-03-21 11:05:09,876 INFO  FrameworkServlet:547 - [] Completed initialization in 3 ms
+2021-03-21 11:05:09,972 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 11:05:09,974 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 11:05:09,976 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 11:05:25,125 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 11:05:25,126 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 11:05:25,127 ERROR MessageController:17 - [] [getMessage] error message
+2021-03-21 11:05:25,128 DEBUG MessageController:18 - [] [getMessage] debug message
+2021-03-21 11:05:38,165 INFO  MessageController:15 - [] [getMessage] info message
+2021-03-21 11:05:38,167 WARN  MessageController:16 - [] [getMessage] warn message
+2021-03-21 11:05:38,168 ERROR MessageController:17 - [] [getMessage] error message
